@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on self-learning projects and working on certain things for life right now
 - 🌱 I’m currently self-learning electronic circuitry, C/C++, and Python
 - 💬 Ask me about anything if you have questions
-- 📫 How to reach me: Joaodcardoao@yahoo.com or through my GitHub messages if that is a thing.
+- 📫 How to reach me: Joaodcardoso@yahoo.com or through my GitHub messages if that is a thing.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really like DND and music, and I like some video games too
