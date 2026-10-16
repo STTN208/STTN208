@@ -1,5 +1,6 @@
 # Hello World! Uh, I don't know what to say next. 
-  ### So my name is STTN, and I am  currently a self-learning user here, trying my best to get myself ready for the future and working on either getting a job or getting a chance to go to college when it is easier for me to do so
+<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/69751827-4021-4a1d-a4ea-bca99b41a328" />
+"Not even stars last forever. Cleanse us, acid rain."
 - 🔭 I’m currently working on self-learning projects and working on certain things for life right now
 - 🌱 I’m currently self-learning electronic circuitry, C/C++, and Python
 - 💬 Ask me about anything if you have questions
