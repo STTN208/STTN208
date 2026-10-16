@@ -1,5 +1,5 @@
 # Hello World! Uh, I don't know what to say next. 
-<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/69751827-4021-4a1d-a4ea-bca99b41a328" />
+<img width="720" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9cb2663-f3c6-4f59-9e71-f09a48de90b1" />
 
 "Not even stars last forever. Cleanse us, acid rain."
 - 🔭 I’m currently working on self-learning projects and working on certain things for life right now
